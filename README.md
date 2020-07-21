@@ -6,12 +6,14 @@
 
 ## Description
 
-_This is a simple webpage about my dog. In this page I practiced best practices in HTML presentation, as well as adding strong and em tags and links to pictures and other websites. _
+_This is a simple webpage about my dog. In this page I practiced using strong and em tags and links to pictures and other websites. _
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open in web browser_
+* to clone this content, copy the url provided by the 'clone or download' button in GitHub
+* in the terminal use the command 'git clone (GitHub url)'
+* open the content in a web browser
+
 
 ## Technologies Used
 _HTML_
